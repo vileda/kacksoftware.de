@@ -7,3 +7,5 @@ categories: [Linux, Mint]
 ---
 
 Import funktion für VPN ist nicht wirklich erreichbar.
+
+Wird noch vervollständigt sobald das Testobjekt wieder verfügbar ist.
