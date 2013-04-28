@@ -6,6 +6,9 @@ comments: true
 categories: [Linux, Mint]
 ---
 
-Import funktion für VPN ist nicht wirklich erreichbar.
+Man bekommt eine OpenVPN Config und möchte diese nun im NetworkManager importieren, sollte ja kein Problem sein, denkste...
 
-Wird noch vervollständigt sobald das Testobjekt wieder verfügbar ist. 
+Einstellungen über das TrayIcon öffnen, sich wundern das kein Import Knopf zu sehen ist, manuell eine OpenVPN Verbindung anlegen, speichern, Dialog schließen, VPN Verbindung auswählen, Einstellungen klicken, was erscheint? Der Dialog mit dem Import Knopf!
+Dialog schließen, erneut Einstellungen klicken, was erscheint? Der Dialog zum einstellen der VPN Verbindung m)
+
+Ziemlich beschissen diese Kacksoftware!

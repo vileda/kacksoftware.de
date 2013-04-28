@@ -12,4 +12,6 @@ Nach dem Update auf Kernel 3.8 kommt meine Intel E1000 NIC nicht wieder korrekt 
 echo "on" > /sys/class/net/eth0/device/power/control
 {% endcodeblock %}
 
+Das Problem ist 
+
 Voll gut, nicht! m)
