@@ -9,6 +9,6 @@ footer: true
 
 Kacksoftware.de
 
-Email für Abmahnungen: vileda (minus) kacksoftware (at) vileda (punkt) cc
+Email für Abmahnungen: vileda (plus) kacksoftware (at) vileda (punkt) cc
 
-Email für Einsendungen: vileda (minus) kacksoftware (at) vileda (punkt) cc
+Email für Einsendungen: vileda (plus) kacksoftware (at) vileda (punkt) cc
